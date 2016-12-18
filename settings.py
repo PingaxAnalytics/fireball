@@ -4,6 +4,11 @@ from testapp import validators
 from distutils.version import LooseVersion
 import django
 
+from os import path
+PROJECT_ROOT = path.dirname(path.abspath(path.dirname(__file__)))
+
+STATIC_ROOT = path.join(PROJECT_ROOT, 'static').replace('\\', '/')
+
 
 DEBUG = True
 
