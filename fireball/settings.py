@@ -199,3 +199,5 @@ LOGGING = {
 
 # Specify the default test runner.
 TEST_RUNNER = 'django.test.runner.DiscoverRunner'
+
+DEP_VERSION = 0.1
