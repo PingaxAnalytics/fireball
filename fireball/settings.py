@@ -23,7 +23,7 @@ DATABASES = {
 
 SECRET_KEY = '_'
 
-ALLOWED_HOSTS = [ 'localhost','koobbeta.azurewebsites.net']
+ALLOWED_HOSTS = [ 'localhost','fireball.azurewebsites.net']
 
 
 INSTALLED_APPS = (
