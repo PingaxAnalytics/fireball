@@ -1,5 +1,6 @@
 Django>=1.5
 djangorestframework>=3.0.0
+djoser
 azure==1.0.3
 azure-common==1.1.4
 azure-mgmt==0.20.2
