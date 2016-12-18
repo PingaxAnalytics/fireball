@@ -62,4 +62,4 @@ DJOSER = {
 }
 
 
-AUTH_USER_MODEL = 'testapp.MyUser'
+AUTH_USER_MODEL = 'accounts.MyUser'
