@@ -11,7 +11,7 @@ azure-nspkg==1.0.0
 azure-servicebus==0.20.1
 azure-servicemanagement-legacy==0.20.2
 azure-storage==0.20.3
-Django==1.10.4
+Django==1.10.3
 djangorestframework==3.5.3
 futures==3.0.5
 python-dateutil==2.6.0
