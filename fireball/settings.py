@@ -27,7 +27,7 @@ SECRET_KEY = 'blm!1a8k%sjv+g&n6bayq_)&$zc2$y3*o=&v(57m=o08cjc(=@'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost','fireball.azurewebsites.net']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
